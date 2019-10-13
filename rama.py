@@ -1,0 +1,2 @@
+pront("rider")
+print("racer")
